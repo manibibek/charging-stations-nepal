@@ -1,0 +1,223 @@
+
+[
+    {
+        "name": "Thapathali EV Showroom",
+        "city": "Kathmandu",
+        "province": "1",
+        "address": "Thapathali EV Showroom",
+        "telephone": "N/A",
+        "type": ["car"],
+        "latitude": "27.677497605840138", 
+        "longitude": "85.31680342774558",
+    },
+    {
+        "name": "Hotel Barahi",
+        "city": "Pokhara",
+        "province": "3",
+        "address": "Lakeside Rd 6",
+        "telephone": "61460617",
+        "type": ["car"],
+        "latitude": "28.20833041093028", 
+        "longitude": "83.95804772177283"
+    },
+    {
+        "name": "Hundai Service (L I Auto Service)",
+        "city": "Kathmandu",
+        "province": "3",
+        "address": "Hundai service, kupondole",
+        "telephone": "01-5550380",
+        "type": ["car"],
+        "latitude": "27.690739168677144", 
+        "longitude": "85.31152580415048"
+    },
+    {
+        "name": "Hyundai Sales/Service Tinkune",
+        "city": "Kathmandu",
+        "province": "3",
+        "address": "Hyundai Sales/Service Tinkune",
+        "telephone": "+97714111891",
+        "type": ["car"],
+        "latitude": "27.69166081858411", 
+        "longitude": "85.31175442397266"
+    },
+    {
+        "name": "Labim Mall",
+        "city": "Kathmandu",
+        "province": "3",
+        "address": "Pulchowk Gabahal Rd, Lalitpur",
+        "telephone": "+97715529924",
+        "type": ["car"],
+        "latitude": "27.677488106320034", 
+        "longitude": "85.31666395202585"
+    },
+    {
+        "name": "Hyundai Sales Naxal",
+        "city": "Kathmandu",
+        "province": "3",
+        "address": "Naxal, Kathmandu",
+        "telephone": "+97714413934",
+        "type": ["car"],
+        "latitude": "27.71556151510917", 
+        "longitude": "85.33003106227773"
+    },
+    {
+        "name": "Trade Tower Thapathali",
+        "city": "Kathmandu",
+        "province": "3",
+        "address": "Thapathali, Kathmandu",
+        "telephone": "N/A",
+        "type": ["car"],
+        "latitude": "27.69459375947994", 
+        "longitude": "85.31994729057585"
+    },
+    {
+        "name": "Bauwa Hotel And Guest House",
+        "city": "Bardibas",
+        "province": "2",
+        "address": "Bardibas",
+        "telephone": "+9779841808341",
+        "type": ["car"],
+        "latitude": "26.980336417677353", 
+        "longitude": "85.91898930493367"
+    },
+    {
+        "name": "BYD Park",
+        "city": "Kathmandu",
+        "province": "3",
+        "address": "Thirbam Road, BYD Park, Kathmandu",
+        "telephone": "+97714441393",
+        "type": ["car"],
+        "latitude": "27.72036580899628", 
+        "longitude": "85.33131856411678"
+    },
+    {
+        "name": "Sajha Yatayat",
+        "city": "Lalitpur",
+        "province": "3",
+        "address": "Pulchowk, Lalitpur",
+        "telephone": "+97715552686",
+        "type": ["car"],
+        "latitude": "27.679479689424358", 
+        "longitude": "85.31745039095695"
+    },
+    {
+        "name": "Hotel Landmark Pokhara",
+        "city": "Pokhara",
+        "province": "Gandaki",
+        "address": "Lakeside, Pokhara",
+        "telephone": "+97761452908",
+        "type": ["car"],
+        "latitude": "28.20810501308324", 
+        "longitude": "83.95761433286081"
+    },
+    {
+        "name": "Hotel Gunja Bardibas",
+        "city": "Pokhara",
+        "province": "2",
+        "address": "Bardibas",
+        "telephone": "+97744550620",
+        "type": ["car"],
+        "latitude": "26.999713853956326", 
+        "longitude": "85.90329853345283"
+    },
+    {
+        "name": "Jagat Motors",
+        "city": "Bhairawaha",
+        "province": "Lumbini",
+        "address": "Siddharthanagar, Bhairahawa",
+        "telephone": "+97771525428",
+        "type": ["car"],
+        "latitude": "27.50386430021768", 
+        "longitude": "83.4561846502268"
+    },
+    {
+        "name": "Laxmi Dinesh 4 Wheelers",
+        "city": "Dhangadhi",
+        "province": "Sudurpaschim Province",
+        "address": "Main Road, Dhangadhi",
+        "telephone": "+97791524492",
+        "type": ["car"],
+        "latitude": "28.704641761732702", 
+        "longitude": "80.56778570363397"
+    },
+    {
+        "name": "Siddhartha Resort Chisapani",
+        "city": "Chisapani",
+        "province": "Karnali",
+        "address": "Chisapani Chisapani",
+        "telephone": "+97791414000",
+        "type": ["car"],
+        "latitude": "28.643017036827", 
+        "longitude": "81.28250618044632"
+    },
+    {
+        "name": "Waterfront Resort",
+        "city": "Pokhara",
+        "province": "Gandaki",
+        "address": "Pokhara",
+        "telephone": "+97761420004",
+        "type": ["car"],
+        "latitude": "28.222093460066503", 
+        "longitude": "83.95172023652376"
+    },
+    {
+        "name": "Avocado & Orchid Resort",
+        "city": "Hetauda",
+        "province": "Bagmati",
+        "address": "Chaukitol -2, Hetauda Makawanpur Narayani Nepal, Tribhuvan Rajpath, Hetauda 44107",
+        "telephone": "+97757520235",
+        "type": ["car"],
+        "latitude": "27.43525489831263", 
+        "longitude": "85.03541692000935"
+    },
+    {
+        "name": "Hetauda Wheels Pvt Ltd",
+        "city": "Hetauda",
+        "province": "Bagmati",
+        "address": "Hetauda-10, Hetauda 44107",
+        "telephone": "+9779855027295",
+        "type": ["car"],
+        "latitude": "27.42559215822066", 
+        "longitude": "85.02998818755908"
+    },
+    {
+        "name": "Hotel The Kingsbury",
+        "city": "Birtamode",
+        "province": "1",
+        "address": "E - W Hwy, Birtamode 57204",
+        "telephone": "+97723509700",
+        "type": ["car"],
+        "latitude": "26.639386515973417", 
+        "longitude": "87.97778701782491"
+    },
+    {
+        "name": "Bodhi Redsun-Shinee Premiere",
+        "city": "Bhairahawa",
+        "province": "Lumbini",
+        "address": "Basantapur 8, Siddharthanagar 32900",
+        "telephone": "+97771525957",
+        "type": ["car"],
+        "latitude": "27.51315408771957", 
+        "longitude": "83.476410364382978"
+    },
+    {
+        "name": "Hotel Da Flamingo",
+        "city": "Butwal",
+        "province": "Lumbini",
+        "address": "Butwal 32907",
+        "telephone": "+97771420152",
+        "type": ["car"],
+        "latitude": "27.669669310224027", 
+        "longitude": "83.46251608871846"
+    },
+    {
+        "name": "Yatri Motorcycles Experience Center",
+        "city": "Kathmandu",
+        "province": "Bagmati",
+        "address": "Thirbam Sadak, Kathmandu 44600",
+        "telephone": "+977980-1877447",
+        "type": ["bike"],
+        "latitude": "27.730905482675592", 
+        "longitude": "85.330016348947"
+    }
+]
