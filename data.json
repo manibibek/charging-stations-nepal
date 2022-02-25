@@ -218,5 +218,55 @@
         "type": ["bike"],
         "latitude": "27.730905482675592", 
         "longitude": "85.330016348947"
+    },
+    {
+        "name": "Team Eleven EV World- BYD SHOWROOM",
+        "city": "Nepalgunj",
+        "province": "Lumbini",
+        "address": "Team Eleven EV World, Nepalgunj",
+        "telephone": "N/A",
+        "type": ["car"],
+        "latitude": "28.10955066224798", 
+        "longitude": "81.65709268264737"
+    },
+    {
+        "name": "Metro Hospitality Dang",
+        "city": "Dang",
+        "province": "Lumbini",
+        "address": "Tulsipur, Dang",
+        "telephone": "+9779868282249",
+        "type": ["car"],
+        "latitude": "28.13355155137408", 
+        "longitude": "82.28707513285744"
+    },
+    {
+        "name": "Hyundai Sales/Service Dang",
+        "city": "Dang",
+        "province": "Lumbini",
+        "address": "Hira Bhawan, Rabbe Tole, Ghorahi Lamahi - Tulsipur Road, 22415, Nepal",
+        "telephone": "+977082563634",
+        "type": ["car"],
+        "latitude": "28.029439122261298", 
+        "longitude": "82.49279660346103"
+    },
+    {
+        "name": "Ocean Auto AC Charger",
+        "city": "Butwal",
+        "province": "Lumbini",
+        "address": "MFPG+4WH, Butwal 32907, Nepal",
+        "telephone": "+9779857030252",
+        "type": ["car"],
+        "latitude": "27.68587931026063", 
+        "longitude": "83.47720419304807"
+    },
+    {
+        "name": "Hyundai Sales/Service Butwal",
+        "city": "Butwal",
+        "province": "Lumbini",
+        "address": "kalikanager, Butwal 32907, Nepal",
+        "telephone": "+977071415278",
+        "type": ["car"],
+        "latitude": "27.673458261688964", 
+        "longitude": "83.46439075215936"
     }
 ]
