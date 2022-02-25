@@ -268,5 +268,15 @@
         "type": ["car"],
         "latitude": "27.673458261688964", 
         "longitude": "83.46439075215936"
+    },
+    {
+        "name": "KOS Coffee & Restaurant",
+        "city": "Dumre",
+        "province": "Gandaki",
+        "address": "Thumka - Korikha - Bahunbhanjyan Rd, Bandipur 33914",
+        "telephone": "+9779856080622",
+        "type": ["car"],
+        "latitude": "27.966907044627355", 
+        "longitude": "84.40475111763509"
     }
 ]
