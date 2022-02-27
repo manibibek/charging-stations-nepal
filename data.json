@@ -288,5 +288,25 @@
         "type": ["car"],
         "latitude": "27.72962721027683", 
         "longitude": "85.39870581209675"
+    },
+    {
+        "name": "Taj Riverside Resort TATA Motors 25kW DC Fast Charger",
+        "city": "Mulkot",
+        "province": "2",
+        "address": "Sunkoshi Rural Municipality Mulkot-5, B.P Highway",
+        "telephone": "+9779851088440",
+        "type": ["car"],
+        "latitude": "27.405068909370048", 
+        "longitude": "85.92027607898733"
+    },
+    {
+        "name": "Akshit Resort and Rafting MG ZS EV 7KW AC CHARGER",
+        "city": "Mulkot",
+        "province": "2",
+        "address": "Mulkot Bazaar, Purano Jhangajholi 45400",
+        "telephone": "+9779851045480",
+        "type": ["car"],
+        "latitude": "27.402325665640042", 
+        "longitude": "85.92322642403303"
     }
 ]
