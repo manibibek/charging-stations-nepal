@@ -278,5 +278,15 @@
         "type": ["car"],
         "latitude": "27.966907044627355", 
         "longitude": "84.40475111763509"
+    },
+    {
+        "name": "Gokarna Forest Resort",
+        "city": "Kathmandu",
+        "province": "Gandaki",
+        "address": "Nagpokhari Marg 390, Gokarneshwor 44600",
+        "telephone": "+977014451212",
+        "type": ["car"],
+        "latitude": "27.72962721027683", 
+        "longitude": "85.39870581209675"
     }
 ]
