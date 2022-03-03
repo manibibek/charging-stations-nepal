@@ -310,7 +310,7 @@
         "longitude": "85.92322642403303"
     },
     {
-        "name": "Him Auto Hyundai Showroom",
+        "name": "Hyundai Sales/Service Him Auto",
         "city": "Nepalgunj",
         "province": "5",
         "address": "Ratna Rajmarg, Near Nepalgunj Airport, Nepalgunj",
@@ -318,5 +318,16 @@
         "type": ["car"],
         "latitude": "28.097939", 
         "longitude": "81.652359",
+    },
+    {
+        "name": "Siddhartha Hotel",
+        "city": "Nepalgunj",
+        "province": "5",
+        "address": "Ratna Rajmarg, Nepalgunj",
+        "telephone": "081-551200",
+        "type": ["car"],
+        "latitude": "28.085212", 
+        "longitude": "81.645616",
     }
+    
 ]
