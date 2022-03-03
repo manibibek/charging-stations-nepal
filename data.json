@@ -308,5 +308,15 @@
         "type": ["car"],
         "latitude": "27.402325665640042", 
         "longitude": "85.92322642403303"
+    },
+    {
+        "name": "Him Auto Hyundai Showroom",
+        "city": "Nepalgunj",
+        "province": "5",
+        "address": "Ratna Rajmarg, Near Nepalgunj Airport, Nepalgunj",
+        "telephone": "081-550428",
+        "type": ["car"],
+        "latitude": "28.097939", 
+        "longitude": "81.652359",
     }
 ]
