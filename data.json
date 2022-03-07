@@ -317,7 +317,7 @@
         "telephone": "081-550428",
         "type": ["car"],
         "latitude": "28.097939", 
-        "longitude": "81.652359",
+        "longitude": "81.652359"
     },
     {
         "name": "Siddhartha Hotel",
@@ -327,7 +327,6 @@
         "telephone": "081-551200",
         "type": ["car"],
         "latitude": "28.085212", 
-        "longitude": "81.645616",
+        "longitude": "81.645616"
     }
-    
 ]
