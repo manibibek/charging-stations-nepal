@@ -6,6 +6,7 @@ This repository contains the data source for the EV charging stations in Nepal i
 
 ## Contributing
 - Create a PR by adding or editing details in the `data.json` file in the following format.
+- Include links or social posts which includes images or news regarding the charging stations on the PR comment. This will help us to verify the information. 
 ```
 {
     "name": "Name of charging station",
