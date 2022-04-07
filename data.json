@@ -338,5 +338,25 @@
         "type": ["car"],
         "latitude": "28.2063884735",
         "longitude": "83.9941635132"
+    },
+    {
+        "name": "Quick20 Riverside Hotel",
+        "city": "Amlekhganj",
+        "province": "2",
+        "address": "E - W Hwy, Amlekhganj 44400",
+        "telephone": "+977053570030",
+        "type": ["car"],
+        "latitude": "27.295827287773257",
+        "longitude": "84.98970838885263"
+    },
+    {
+        "name": "Sipradi Trading Pvt.Ltd,Basamadi Hetauda",
+        "city": "Hetauda",
+        "province": "Bagmati",
+        "address": "Hetauda 44100",
+        "telephone": "+9779801909862",
+        "type": ["car"],
+        "latitude": "27.455518277977536",
+        "longitude": "84.9704420179544"
     }
 ]
