@@ -328,5 +328,15 @@
         "type": ["car"],
         "latitude": "28.085212", 
         "longitude": "81.645616"
-    }
+    },
+    {
+        "name": "Sipradi Trading Pokhara",
+        "city": "Pokhara",
+        "province": "4",
+        "address": "Buddhachowk",
+        "telephone": "+977061538499",
+        "type": ["car"],
+        "latitude": " 28.2063884735",
+        "longitude": " 83.9941635132"
+     },
 ]
