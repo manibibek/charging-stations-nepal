@@ -17,7 +17,15 @@
         "telephone": "61460617",
         "type": ["car"],
         "latitude": "28.20833041093028", 
-        "longitude": "83.95804772177283"
+        "longitude": "83.95804772177283",
+        "plugs": [
+            {
+                "plug": "type2",
+                "power": "7.2Kw",
+                "type": "AC"
+            }
+        ],
+        "amenities": ["wifi", "parking", "food", "coffee", "accomodation", "restroom"]
     },
     {
         "name": "Hundai Service (L I Auto Service)",
@@ -27,7 +35,15 @@
         "telephone": "01-5550380",
         "type": ["car"],
         "latitude": "27.690739168677144", 
-        "longitude": "85.31152580415048"
+        "longitude": "85.31152580415048",
+        "plugs": [
+            {
+                "plug": "type2",
+                "power": "7.2Kw",
+                "type": ""
+            }
+        ],
+        "amenities": ["wifi", "parking", "restroom"]
     },
     {
         "name": "Hyundai Sales/Service Tinkune",
