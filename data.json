@@ -455,14 +455,14 @@
 		"amenities": ["parking", "restroom"]
 	},
 	{
-		"name": "Komal Hotel MG",
+		"name": "Komal Hotel",
 		"city": "Mithila",
 		"province": "",
 		"address": "E W, पूर्व पश्चिम राजमार्ग, मिथिला 45600, Nepal",
-		"telephone": "",
+		"telephone": "+9779854022729",
 		"type": ["car"],
-		"latitude": "26.9405303",
-		"longitude": "85.8777271",
+		"latitude": "26.929392125865927",
+		"longitude": "85.95655890505292",
 		"plugs": [
 			{
 				"plug": "type2",
