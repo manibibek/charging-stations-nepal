@@ -555,24 +555,6 @@
 		"amenities": ["restroom"]
 	},
 	{
-		"name": "Pathivara Auto Link Hyundai",
-		"city": "Kankai",
-		"province": "",
-		"address": "E - W Hwy, Birtamode 57204, Nepal",
-		"telephone": "",
-		"type": ["car"],
-		"latitude": "27.4310334",
-		"longitude": "85.0230911",
-		"plugs": [
-			{
-				"plug": "type2",
-				"power": "7.2Kw",
-				"type": "AC"
-			}
-		],
-		"amenities": ["parking", "restroom"]
-	},
-	{
 		"name": "Mahalaxmi International",
 		"city": "Birtamode",
 		"province": "",
@@ -580,8 +562,8 @@
 		"time": "9 am - 5 pm",
 		"telephone": "+977 23-545688",
 		"type": ["car"],
-		"latitude": "27.4309953",
-		"longitude": "85.0319317",
+		"latitude": "26.64090973303655",
+		"longitude": "87.95532421730184",
 		"plugs": [
 			{
 				"plug": "type2",
