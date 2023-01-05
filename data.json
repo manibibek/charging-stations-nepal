@@ -902,5 +902,77 @@
 		"type": ["car"],
 		"latitude": "27.455518277977536",
 		"longitude": "84.9704420179544"
+	},
+	{
+		"name": "APF Kalika Fuel Station",
+		"city": "Pokhara",
+		"province": "Gandaki",
+		"address": "Pokhara-Baglung Hwy, Pokhara 33700",
+		"telephone": "+97761533652",
+		"type": ["car"],
+		"latitude": "28.21884",
+		"longitude": "83.977621",
+		"amenities": [
+			"petrol",
+			"restroom"
+		]
+	},
+	{
+		"name": "Club Denovo",
+		"city": "Butwal",
+		"province": "Lumbini",
+		"address": "Kalika Nagar 11, Butwal 32907",
+		"telephone": "+977071438885",
+		"type": ["car"],
+		"latitude": "27.683822466853208",
+		"longitude": "83.46122966332723",
+		"amenities": [
+			"wifi",
+			"parking",
+			"food",
+			"coffee",
+			"accomodation",
+			"restroom"
+		]
+	},
+	{
+		"name": "Akshit Resort & Rafting",
+		"city": "Mulkot",
+		"province": "Bagmati",
+		"address": "Mulkot Bazaar, Purano Jhangajholi 45400",
+		"telephone": "+9779851045480",
+		"type": ["car"],
+		"latitude": "27.402356765881613",
+		"longitude": "85.92334010648774",
+		"amenities": [
+			"wifi",
+			"parking",
+			"food",
+			"coffee",
+			"accomodation",
+			"restroom"
+		]
+	},
+	{
+		"name": "Superior Motors Pvt. Ltd",
+		"city": "Biratnagar",
+		"province": "Province 1",
+		"address": "H08 Airport Chowk, Biratnagar 56613",
+		"telephone": "",
+		"type": ["car"],
+		"latitude": "26.479376852855083",
+		"longitude": "87.2764390888327",
+		"amenities": [
+			"wifi",
+			"parking",
+			"restroom"
+		],
+		"plugs": [
+			{
+				"plug": "type2",
+				"power": "40Kw",
+				"type": "AC"
+			}
+		],
 	}
 ]
